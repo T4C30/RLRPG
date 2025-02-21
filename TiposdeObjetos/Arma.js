@@ -1,0 +1,5 @@
+class Arma {
+    constructor(parameters) {
+        
+    }
+}

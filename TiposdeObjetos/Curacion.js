@@ -1,0 +1,5 @@
+class Curacion {
+    constructor(parameters) {
+        
+    }
+}
