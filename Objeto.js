@@ -1,4 +1,4 @@
-class Objeto {
+export default class Objeto {
     #nombre;
     #dano;
     #curacionA;

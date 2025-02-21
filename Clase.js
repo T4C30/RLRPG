@@ -1,4 +1,4 @@
-import Estatus from "./Estatus";
+import Estatus from './Estatus';
 
 
 export default class Clase extends Estatus {

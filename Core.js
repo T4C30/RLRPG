@@ -1,5 +1,5 @@
 import Usuario from './Usuario.js';
-import Guerrero from "./TiposdeClase/Guerrero.js";
+import Guerrero from './TiposdeClase/Guerrero.js';
 
 let fuerza = 10;
 

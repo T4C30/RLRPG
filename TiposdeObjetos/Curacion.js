@@ -1,5 +1,5 @@
 class Curacion {
-    constructor(parameters) {
-        
+    constructor(curacionA, curacionS){
+
     }
 }
