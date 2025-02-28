@@ -1,0 +1,7 @@
+
+class Escudo{
+    #Equipado; 
+    Escudo(){
+
+    }
+}

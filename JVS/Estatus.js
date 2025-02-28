@@ -8,9 +8,7 @@ export default class Estatus {
     #carisma;
     #suerte;
 
-    #ps;
     #psMax;
-    #mana;
     #manaMax;
 
     constructor(fuerza,constitucion,inteligencia,sabiduria,destreza,agilidad,carisma,suerte){
@@ -22,5 +20,9 @@ export default class Estatus {
         this.#inteligencia= inteligencia;
         this.#suerte=suerte;
         this.#sabiduria = sabiduria;
+    }
+
+    get psMax(){
+        return this.#psMax;
     }
 }
